@@ -57,5 +57,14 @@
         <github>kbaranski</github>
         <group>KrZZIs3011Si</group>
     </student>
+	
+    <student>
+	<firstname>Szymon</firstname>
+	<lastname>Sadzik</lastname>
+	<email>szamik21@interia.eu</email>
+	<github>szamik</github>
+	<group>KrZZIs3011Io</group>
+    </student>    
+
 
 </students>
